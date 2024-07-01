@@ -1,1 +1,1 @@
-this is my repo for the "Advanced HTML" project
+this is my repo for the "web front end" projects
